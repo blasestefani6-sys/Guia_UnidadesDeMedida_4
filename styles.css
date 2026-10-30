@@ -1,0 +1,34 @@
+body {
+    background-color: #fff5ed;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+.contenedor {
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+h1 {
+    color: #a65d3f;
+    font-size: 2rem;
+}
+p {
+    font-size: 1.2em;
+}
+.decoracion {
+    background-color: #edc4a8;
+    margin: 20px auto;
+    padding: 15px;
+    width: 30vw;
+}
+.fondo {
+    background-image: url("https://png.pngtree.com/png-vector/20241012/ourmid/pngtree-cat-peeking-from-frame-png-image_14067902.png");
+
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: palevioletred;
+    height: 50vh;
+    padding-top: 30px;
+    text-align: center;
+}
